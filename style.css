@@ -4,13 +4,18 @@ html {
 }
 
 header {
-  font-family: "Sofia";
+  font-family: 'Dancing Script', cursive;
+  /* font-family: Arial; */
   text-align: center;
   padding: 2rem;
+  background-color:azure;
+  /* width: 70%;
+  float: center; */
 }
 
 h2 {
-  font-family: "Sofia";
+  /* font-family: Arial; */
+  font-family: 'Dancing Script', cursive;
 }
 
 .container {
@@ -30,4 +35,13 @@ img {
   margin: 2rem;
   margin-top: 5rem;
   max-width: 50%;
+}
+
+.list {
+  font-family: Calibri;
+  color:darkslategrey;
+}
+
+figcaption {
+  font-family: Calibri;
 }
